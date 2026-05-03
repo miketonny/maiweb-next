@@ -1,0 +1,129 @@
+{
+  "hero": {
+    "tagline": "AI & Full-Stack Engineering",
+    "title": "Michael — Solutions Architect",
+    "subtitle": "15+ years building custom software systems. Technical Lead at a global fintech company. Bringing AI into the stack — LLM integration, intelligent automation, and scalable architecture.",
+    "cta_primary": "Start a Project",
+    "cta_secondary": "View My Work"
+  },
+  "about": {
+    "overline": "About",
+    "title": "Full-stack engineer. AI consultant. Problem solver.",
+    "paragraphs": [
+      "I'm Michael — a full-stack developer and system architect based in Auckland, New Zealand. Technical Lead at a global leading fintech company, where I design and build mission-critical systems at scale.",
+      "Over the past 15+ years, I've delivered custom software for businesses across fintech, e-commerce, hospitality, logistics, and professional services. When off-the-shelf software doesn't cut it, I build solutions that do — from ERP systems and warehouse management to modern React SPAs.",
+      "Beyond fintech, I consult independently on AI integration: LLM-powered applications, RAG systems, AI agent workflows, and helping businesses understand where AI can create real value — not just hype."
+    ]
+  },
+  "services": {
+    "overline": "Services",
+    "title": "What I offer",
+    "description": "End-to-end technical consulting — from architecture to production.",
+    "items": [
+      {
+        "icon": "brain",
+        "title": "AI Consulting & Integration",
+        "description": "LLM strategy, RAG systems, AI agent development, workflow automation. Practical AI that delivers measurable ROI."
+      },
+      {
+        "icon": "architecture",
+        "title": "System Architecture",
+        "description": "Scalable architectures for ERP, microservices, and APIs. Database design, cloud infrastructure, and 15+ years of production experience."
+      },
+      {
+        "icon": "web",
+        "title": "Full-Stack Web Development",
+        "description": "Modern React/Vite SPAs with Node.js backends. Custom web applications when SaaS products don't fit your workflow."
+      },
+      {
+        "icon": "analysis",
+        "title": "Business Analysis",
+        "description": "Spot-on technical analysis for your business needs. Process optimization, software selection, and digital transformation strategy."
+      },
+      {
+        "icon": "migration",
+        "title": "Legacy System Modernization",
+        "description": "Migrating old PHP/MySQL systems to modern stacks. WordPress to static SPAs, monolithic to microservices — done right."
+      },
+      {
+        "icon": "agent",
+        "title": "AI Agent Development",
+        "description": "Custom AI agents for automation, data processing, and decision support. Built with the latest LLM frameworks and tools."
+      }
+    ]
+  },
+  "stack": {
+    "overline": "Tech Stack",
+    "title": "Tools I work with",
+    "categories": [
+      {
+        "name": "Frontend",
+        "items": ["React", "Vite", "TailwindCSS", "Next.js", "TypeScript"]
+      },
+      {
+        "name": "Backend",
+        "items": ["Node.js", "Express", "Python", "PHP", "REST/GraphQL"]
+      },
+      {
+        "name": "AI / ML",
+        "items": ["LLMs", "RAG", "LangChain", "OpenAI API", "DeepSeek"]
+      },
+      {
+        "name": "Database",
+        "items": ["MySQL", "MariaDB", "PostgreSQL", "MongoDB", "Redis"]
+      },
+      {
+        "name": "DevOps",
+        "items": ["Linux", "Nginx", "Docker", "PM2", "GitHub Actions"]
+      }
+    ]
+  },
+  "portfolio": {
+    "overline": "Portfolio",
+    "title": "Recent Work",
+    "description": "Selected projects across e-commerce, hospitality, and professional services.",
+    "items": [
+      {
+        "title": "Christinas",
+        "category": "Premium Agency Platform",
+        "description": "Full-stack React SPA with Express API, 400+ image gallery, admin panel, bilingual support.",
+        "link": "http://112.213.39.172/"
+      },
+      {
+        "title": "Woodside Estate",
+        "category": "Luxury Wedding Venue",
+        "description": "Static SPA migration from legacy PHP. AI-upscaled imagery, modern design, multilingual.",
+        "link": "https://woodsideestate.co.nz"
+      },
+      {
+        "title": "Hollywood Bakery",
+        "category": "Order Management System",
+        "description": "Custom order processing and inventory system for a multi-location bakery chain.",
+        "link": "#"
+      },
+      {
+        "title": "Topink",
+        "category": "E-Commerce Platform",
+        "description": "Custom CMS and online store for ink supply business with inventory management.",
+        "link": "https://topink.co.nz"
+      },
+      {
+        "title": "JHM",
+        "category": "Web Design Agency",
+        "description": "Portfolio and service website for a design agency with custom theme development.",
+        "link": "#"
+      }
+    ]
+  },
+  "contact": {
+    "overline": "Contact",
+    "title": "Let's discuss your project",
+    "description": "Feel free to reach out — I'll get back to you within 24 hours.",
+    "email": "michael@maiweb.co.nz",
+    "location": "Auckland, New Zealand"
+  },
+  "footer": {
+    "copyright": "© 2026 Maiweb — AI Solutions Architect",
+    "location": "Auckland, New Zealand"
+  }
+}
